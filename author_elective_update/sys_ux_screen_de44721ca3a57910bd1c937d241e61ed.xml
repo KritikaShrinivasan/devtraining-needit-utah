@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="Simple List">4e44be98a3a57910bd1c937d241e61fe</macroponent>
+        <macroponent_config>{
+    "bare": true,
+    "headerLevel": "1",
+    "headingOnlyVisibleToScreenReaders": false,
+    "interceptNotifications": false,
+    "label": "",
+    "listView": "",
+    "propagateNotifications": false,
+    "scrollable": "y"
+}</macroponent_config>
+        <name>Simple List default copy</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Simple List">c64eaa181b0d0510b81fdce7cc4bcbb8</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-24 05:36:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de44721ca3a57910bd1c937d241e61ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List default copy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_de44721ca3a57910bd1c937d241e61ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-24 05:36:52</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=de44721ca3a57910bd1c937d241e61ed"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d0e8029e3c303110958b1ccbefdea210</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_ux_screen_de44721ca3a57910bd1c937d241e61ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings>[
+    
+]</event_mappings><macroponent display_value="Simple List">4e44be98a3a57910bd1c937d241e61fe</macroponent><macroponent_config>{
+    "bare": true,
+    "headerLevel": "1",
+    "headingOnlyVisibleToScreenReaders": false,
+    "interceptNotifications": false,
+    "label": "",
+    "listView": "",
+    "propagateNotifications": false,
+    "scrollable": "y"
+}</macroponent_config><name>Simple List default copy</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Simple List">c64eaa181b0d0510b81fdce7cc4bcbb8</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-24 05:36:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de44721ca3a57910bd1c937d241e61ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Simple List default copy</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_de44721ca3a57910bd1c937d241e61ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-24 05:36:52</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=de44721ca3a57910bd1c937d241e61ed"/></record_update>]]></payload>
+        <payload_hash>-1055842869</payload_hash>
+        <record_name>Simple List default copy</record_name>
+        <reverted_from/>
+        <source>a1452588a3113510bd1c937d241e61aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-24 05:36:52</sys_created_on>
+        <sys_id>d244721ca3a57910bd1c937d241e61f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ac5b0cc8d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-24 05:36:52</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>1a44721cf9a57910731b082481406bf0</update_guid>
+        <update_guid_history>1a44721cf9a57910731b082481406bf0:-1055842869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-24 05:37:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>0a0e0d3df45e406e962cf39f80fe8239</sys_id>
+        <sys_metadata>de44721ca3a57910bd1c937d241e61ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List default copy</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_de44721ca3a57910bd1c937d241e61ed</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_de44721ca3a57910bd1c937d241e61ed">d244721ca3a57910bd1c937d241e61f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-24 05:37:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
